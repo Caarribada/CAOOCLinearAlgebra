@@ -48,7 +48,7 @@ public class Admin extends User implements AdminInterface {
         }while(typeConfirm != 'Y' && typeConfirm !='N');
 
         //confirm the user data informed
-        System.out.println("Check the user info:");
+        System.out.println("Check user info:");
         System.out.println("User name " + username);
         System.out.println("Surname " + surname);
         System.out.println("Password "+ pwd);
