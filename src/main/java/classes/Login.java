@@ -22,7 +22,7 @@ public class Login implements LoginInterface{
 
             //search user and password in database
             //check if exists
-            //check if the password matches
+            //check if the password matches 
 
             if(login.equals("Claydson") && String.valueOf(pwd).equals("12345")){
                 logged = true;
