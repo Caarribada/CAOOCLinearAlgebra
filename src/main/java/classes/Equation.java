@@ -105,3 +105,4 @@ public class Equation implements EquaInterface {
     }
     
 }
+
