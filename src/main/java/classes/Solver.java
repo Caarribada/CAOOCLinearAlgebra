@@ -4,7 +4,7 @@ import interfaces.solverInterface;
 
 /**
  *
- * @author Camila & Erik
+ * @author Camila 286 & Erik 374
  */
 public class Solver implements solverInterface {
     
