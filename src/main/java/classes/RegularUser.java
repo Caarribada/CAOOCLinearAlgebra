@@ -35,7 +35,7 @@ public class RegularUser extends User implements RegularUserInterface{
                     sc.nextLine(); //clean buffer
                 }
         }while(typeError);
-        //get the number of variables
+        //get the variable numbers 
         do{
             try{
                 System.out.println("Please insert the number of variables (max 3)");
